@@ -1,0 +1,15 @@
+﻿1
+###
+Cave
+###
+You slowly open your eyes. You are standing at the enterance to a cave. Nothing is around you but trees. 
+Out of desperation you enter the cave cautiously. You see a strange glowing light at what seems to be the end of the cave.
+You walk towards the glowing light.
+
+To your north there two large burning torches are hanging on the wall above a small splintered door in the wall. 
+You look around the confined cave once more, this seems to be the only exit.
+
+###
+N:2
+###
+

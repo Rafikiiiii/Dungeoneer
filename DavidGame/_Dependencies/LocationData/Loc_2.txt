@@ -1,0 +1,29 @@
+﻿2
+###
+Dungeon Enterance
+###
+
+You open the creaking door with extreme caution, peering your head around the door as you slowly move forward.
+
+You walk into a large brick tunnel. Curious, you walk deeper into the tunnel, looking around for any hidden exits. 
+
+You can't help but notice the smell of blood floating through the tunnel.
+
+Suddenly a rat sprints past you with a deathly squeel and scurries away. You quickly look behind you. Nothing. 
+
+You continue to walk down the tunnel and follow the rat. 
+
+50 yards later you see it, perched upon what looks to be a trap door to the south side of the tunnel. 
+
+The hinges are rusty but the stains on the wood suggest someone was here recently.
+
+Ahead to your west you see what looks like a seperate tunnel, joined on to the main tunnel.  
+
+
+
+###
+N:6
+E:3
+S:1
+W:4
+###

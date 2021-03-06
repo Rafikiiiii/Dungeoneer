@@ -1,0 +1,22 @@
+﻿3
+###
+The Lower Dungeon
+###
+You slowly go towards the rat, perched upon the trap door, with your foot you carefully urge it away. 
+
+You carefully lift up the splintered door, avoiding any cuts.
+
+A long ladder leads down towards a dark pit, the pungent smell of blood lingers in the air. 
+
+You descend the rusted ladder, being wary of your footing. A short while later you finally reach the bottom.
+
+You appear to be in some sort of prison, towering metal cells surround you, many look to have been pried open with extreme force.
+
+You begin to stroll through this deserted area, checking behind you regularly. 
+
+You walk towards
+
+
+W:2
+N:7
+###

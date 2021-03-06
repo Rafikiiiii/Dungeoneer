@@ -1,0 +1,8 @@
+﻿10
+###
+The wardens lair
+###
+The wardens lair description
+###
+W:9
+###

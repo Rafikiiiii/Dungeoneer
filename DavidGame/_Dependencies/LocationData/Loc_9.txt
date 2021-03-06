@@ -1,0 +1,9 @@
+﻿9
+###
+The decaying lair
+###
+The decaying lair description
+###
+E:10
+W:7
+###

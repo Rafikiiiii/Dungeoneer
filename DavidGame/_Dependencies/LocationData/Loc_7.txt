@@ -1,0 +1,11 @@
+﻿7
+###
+The iron Chambers
+###
+The iron chambers description
+###
+N:8
+E:9
+S:3
+W:6
+###
